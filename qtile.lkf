@@ -1,0 +1,2 @@
+mod h || lazy.layout.left() || Move focus to left
+mod l || lazy.layout.right() || Move focus to right
